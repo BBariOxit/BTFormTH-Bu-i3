@@ -1,0 +1,10 @@
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\bin\Debug\BTTKForm.exe.config
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\bin\Debug\BTTKForm.exe
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\bin\Debug\BTTKForm.pdb
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.csproj.AssemblyReference.cache
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.Form1.resources
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.Properties.Resources.resources
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.csproj.GenerateResource.cache
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.csproj.CoreCompileInputs.cache
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.exe
+Z:\2212345\TKFrom1\BTTKForm\BTTKForm\obj\Debug\BTTKForm.pdb

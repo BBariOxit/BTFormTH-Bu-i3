@@ -1,0 +1,10 @@
+Z:\2212345\BTTH\BTTH\bin\Debug\BTTH.exe.config
+Z:\2212345\BTTH\BTTH\bin\Debug\BTTH.exe
+Z:\2212345\BTTH\BTTH\bin\Debug\BTTH.pdb
+Z:\2212345\BTTH\BTTH\obj\Debug\BaiThucHanhBuoi1.csproj.AssemblyReference.cache
+Z:\2212345\BTTH\BTTH\obj\Debug\BTTH.MainForm.resources
+Z:\2212345\BTTH\BTTH\obj\Debug\BTTH.Properties.Resources.resources
+Z:\2212345\BTTH\BTTH\obj\Debug\BaiThucHanhBuoi1.csproj.GenerateResource.cache
+Z:\2212345\BTTH\BTTH\obj\Debug\BaiThucHanhBuoi1.csproj.CoreCompileInputs.cache
+Z:\2212345\BTTH\BTTH\obj\Debug\BTTH.exe
+Z:\2212345\BTTH\BTTH\obj\Debug\BTTH.pdb
